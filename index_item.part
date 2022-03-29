@@ -1,0 +1,15 @@
+
+      <li class="item" id="item____NR___" style="background-image: url('photos/tint____NR___')" title="___TITLE___">
+        <img class="lazyload" data-src="photos/thumb____NR___" src="photos/thumb____NR___" width="###WIDTH###" height="###HEIGHT###">
+        <span class="full">
+          <span style="background-image: url('photos/___NR___')"></span>
+        </span>
+        <a class="open" href="#___NR___" data-target="item____NR___">Open</a>
+        <a class="close" href="#">Close</a>
+        <a href="#___NR_PREV___" data-target="___NR_PREV___" class="previous" title="Go to previous photo">
+          <span>Previous</span>
+        </a>
+        <a href="#___NR_NEXT___" data-target="item____NR_NEXT___" class="next" title="Go to next photo">
+          <span>Next</span>
+        </a>
+      </li>
